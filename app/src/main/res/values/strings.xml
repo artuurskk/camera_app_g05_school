@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PD1_G05 Camera</string>
+    <string name="take_photo">Take a picture</string>
+    <string name="start_capture">Capture video</string>
+    <string name="stop_capture">Stop</string>
+    <string name="audio">Audio</string>
+    <string name="record_audio">Record audio</string>
+    <string name="camera">Camera</string>
+    <string name="play_audio">Play</string>
+    <string name="stop_play">Stop playing</string>
+    <string name="stop_record">Stop recording</string>
+</resources>
